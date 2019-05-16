@@ -1,7 +1,7 @@
 from env.wlanenvironment import wlanEnv
 from Brain import BrainDQN
 import time
-import numpy as np
+import numpy as np  //NumPy系统是Python的一种开源的数值计算扩展。这种工具可用来存储和处理大型矩阵
 from display import Display
 # import signal
 
